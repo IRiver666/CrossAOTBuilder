@@ -1,5 +1,4 @@
 <a id="english"></a>
-## English | [中文](#chinese)
 
 This is a NuGet package with built-in MSBuild targets, designed to help .NET developers cross-compile [`Native AOT`](https://learn.microsoft.com/en-us/dotnet/core/deploying/native-aot/) projects from a Linux environment to the Windows platform. It resolves issues with missing linkers and SDKs encountered when directly publishing to a Windows target from Linux.
 
