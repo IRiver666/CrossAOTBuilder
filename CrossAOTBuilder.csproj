@@ -4,7 +4,7 @@
    <TargetFrameworks>net8.0;net9.0;net10.0</TargetFrameworks>
    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
    <PackageId>CrossAOTBuilder</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>IRiver666</Authors>
     <Description>MSBuild targets to assist cross-compiling native AOT publish for Windows on Linux.</Description>
     <PackageProjectUrl>https://github.com/IRiver666/CrossAOTBuilder</PackageProjectUrl>
