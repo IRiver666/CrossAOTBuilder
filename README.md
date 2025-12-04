@@ -30,7 +30,7 @@ For other Linux distributions, please use your package manager to install `lld` 
 1.  **Add the NuGet package reference to your project**.
 
     ```sh
-    dotnet add package PublishAotCross.LinuxToWin
+    dotnet add package CrossAOTBuilder
     ```
 
 2.  **Optional: Configure the msvc-wine path**.
